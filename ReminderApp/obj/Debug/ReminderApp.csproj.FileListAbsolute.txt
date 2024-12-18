@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\bin\Debug\ReminderApp.exe.config
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\bin\Debug\ReminderApp.exe
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\bin\Debug\ReminderApp.pdb
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\obj\Debug\ReminderApp.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\obj\Debug\ReminderApp.Properties.Resources.resources
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\obj\Debug\ReminderApp.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\obj\Debug\ReminderApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\obj\Debug\Reminder.4FE5CC10.Up2Date
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\obj\Debug\ReminderApp.exe
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\obj\Debug\ReminderApp.pdb
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ahmed\source\repos\ReminderApp\ReminderApp\obj\Debug\ReminderApp.Form1.resources

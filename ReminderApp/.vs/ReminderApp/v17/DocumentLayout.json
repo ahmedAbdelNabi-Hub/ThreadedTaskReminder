@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|c:\\users\\ahmed\\source\\repos\\reminderapp\\reminderapp\\reminderapp\\applicationlayer\\service\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\applicationlayer\\service\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\infrastructure\\repository\\reminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\infrastructure\\repository\\reminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\applicationlayer\\interface\\ireminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\applicationlayer\\interface\\ireminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Enum\\ReminderStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:ReminderApp\\ApplicationLayer\\Enum\\ReminderStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\infrastructure\\helper\\toolkithelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\infrastructure\\helper\\toolkithelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\rmindergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\rmindergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\rmindergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\rmindergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\rmindergui.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\rmindergui.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\tasktodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\tasktodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:ReminderApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\tasktodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\tasktodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\reminderapp\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:reminderapp\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Entities\\Reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:ReminderApp\\ApplicationLayer\\Entities\\Reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Entities\\Status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:ReminderApp\\ApplicationLayer\\Entities\\Status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Infrastructure\\Data\\ReminderAppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD9BFB-7818-4808-AF3A-930F4D89DF36}|ReminderApp\\ReminderApp.csproj|solutionrelative:ReminderApp\\Infrastructure\\Data\\ReminderAppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReminderService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Service\\ReminderService.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\ApplicationLayer\\Service\\ReminderService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Service\\ReminderService.cs",
+              "RelativeToolTip": "ReminderApp\\ApplicationLayer\\Service\\ReminderService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAHMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:38:15.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RminderGui.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\RminderGui.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\RminderGui.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\RminderGui.cs [Design]",
+              "RelativeToolTip": "ReminderApp\\RminderGui.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:20:54.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReminderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Infrastructure\\Repository\\ReminderRepository.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\Infrastructure\\Repository\\ReminderRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Infrastructure\\Repository\\ReminderRepository.cs",
+              "RelativeToolTip": "ReminderApp\\Infrastructure\\Repository\\ReminderRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:53:23.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReminderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Enum\\ReminderStatus.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\ApplicationLayer\\Enum\\ReminderStatus.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Enum\\ReminderStatus.cs",
+              "RelativeToolTip": "ReminderApp\\ApplicationLayer\\Enum\\ReminderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:09:40.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReminderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Interface\\IReminderRepository.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\ApplicationLayer\\Interface\\IReminderRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Interface\\IReminderRepository.cs",
+              "RelativeToolTip": "ReminderApp\\ApplicationLayer\\Interface\\IReminderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:26:58.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToolkitHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Infrastructure\\Helper\\ToolkitHelper.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\Infrastructure\\Helper\\ToolkitHelper.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Infrastructure\\Helper\\ToolkitHelper.cs",
+              "RelativeToolTip": "ReminderApp\\Infrastructure\\Helper\\ToolkitHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:32:15.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Program.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Program.cs",
+              "RelativeToolTip": "ReminderApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:32:10.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RminderGui.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\RminderGui.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\RminderGui.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\RminderGui.cs",
+              "RelativeToolTip": "ReminderApp\\RminderGui.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAJYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:18:19.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RminderGui.resx",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\RminderGui.resx",
+              "RelativeDocumentMoniker": "ReminderApp\\RminderGui.resx",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\RminderGui.resx",
+              "RelativeToolTip": "ReminderApp\\RminderGui.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-13T19:52:43.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskToDo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\TaskToDo.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\TaskToDo.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\TaskToDo.cs [Design]",
+              "RelativeToolTip": "ReminderApp\\TaskToDo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:21:17.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskToDo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\TaskToDo.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\TaskToDo.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\TaskToDo.cs",
+              "RelativeToolTip": "ReminderApp\\TaskToDo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:21:34.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Form1.cs",
+              "RelativeToolTip": "ReminderApp\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwCcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:21:43.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Form1.cs [Design]",
+              "RelativeToolTip": "ReminderApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:05:56.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskForm.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\TaskForm.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\TaskForm.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\TaskForm.cs",
+              "RelativeToolTip": "ReminderApp\\TaskForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:19:05.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Entities\\Reminder.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\ApplicationLayer\\Entities\\Reminder.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Entities\\Reminder.cs",
+              "RelativeToolTip": "ReminderApp\\ApplicationLayer\\Entities\\Reminder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:22:28.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReminderAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Infrastructure\\Data\\ReminderAppDbContext.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\Infrastructure\\Data\\ReminderAppDbContext.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\Infrastructure\\Data\\ReminderAppDbContext.cs",
+              "RelativeToolTip": "ReminderApp\\Infrastructure\\Data\\ReminderAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:52:40.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "ReminderApp\\ApplicationLayer\\Entities\\Status.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ReminderApp\\ReminderApp\\ReminderApp\\ApplicationLayer\\Entities\\Status.cs",
+              "RelativeToolTip": "ReminderApp\\ApplicationLayer\\Entities\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:11:42.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
